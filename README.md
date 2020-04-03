@@ -15,6 +15,8 @@ Ancc is Not a Compiler Compiler
 
 可以参考一下Main.java  
 
+> 注：文法必须消除左递归然后提取公因式才能用  
+
 然后是.ancc的语法  
 
 > ancc的语法很严格，如果不正确的话无法正确读取  
